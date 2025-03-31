@@ -3,15 +3,14 @@ repo: upptime
 
 sites:
   - name: XDR
-    url: https://dexdr01.cybertekne.com/app/login?
+    url: https://dexdr01.cybertekne.com
   - name: CTI01
-    url: https://decti01.cybertekne.com/dashboard
+    url: https://decti01.cybertekne.com
   - name: CTI02
-    url: https://decti02.cybertekne.com/dashboard
+    url: https://decti02.cybertekne.com
 
 status-website:
   cname: status.cybertekne.com
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -21,6 +20,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
