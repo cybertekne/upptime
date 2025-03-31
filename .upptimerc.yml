@@ -11,10 +11,10 @@ sites:
 
 status-website:
   cname: status.cybertekne.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://brand.cybertekne.com/cybertekne.png
+  name: CyberTekne Corp
+  introTitle: "Real-Time Status"
+  introMessage: Here you can find real-time information on the availability of our services. We monitor our systems continuously and update this page if we detect any issues.
   navbar:
     - title: Status
       href: /
